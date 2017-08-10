@@ -1,0 +1,122 @@
+.welcome_body {
+	color: black;
+	font-family: 'Abel', sans-serif;
+	background-image:url("https://68.media.tumblr.com/ee19583840923299f5e5ffa3fb21f633/tumblr_ougimwhPK01spd7dio1_540.png");
+	background-size:cover;
+    font-size: 85%;
+	}
+.page_body {
+	color: black;
+	font-family: 'Abel', sans-serif;
+	background-image:url("https://68.media.tumblr.com/843a763524358dfc63b9b4305b6cec9c/tumblr_ough1bU50Q1spd7dio1_540.png");
+	background-size:cover;
+    font-size: 85%;
+}
+.welcome_img {
+	border: solid white 8px;
+	margin: 15px;
+	width: 300px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	}
+nav {
+	padding: 10px;
+	background-color: white;
+}
+nav a {
+	text-decoration: none;
+	margin: 3%;
+	color: black;
+}
+footer {
+    font-size: 75%;
+    clear:both;
+    padding-top: 100px;
+}
+.logo {
+   width: 200px;
+}
+.home_icon {
+	border-radius: 100%;
+	border: solid white 10px;
+	width: 200px;
+	margin-top: 25px;
+}
+.profile_icon {
+	border-radius: 100%;
+	border: solid white 10px;
+	width: 150px;
+	margin-top: 30px;
+	
+}
+strong {
+    text-decoration: underline;
+    margin-top: 50px;
+}
+.p_info {
+    float: right;
+    width: 60%;
+}
+.edu_icon {
+	width: 150px;
+	margin-top: 30px;
+    clear:both;
+}
+#list1 {
+    float: left;
+    margin: 5%;
+    padding-left: 12%;
+}
+#list2 {
+    float: left;
+     margin: 5%;
+}
+#list3 {
+    float: left;
+     margin: 5%;
+}
+#list4 {
+    float: left;
+     margin: 5%;
+}
+.sns {
+    margin-top: 50px;
+    text-align: center;
+}
+.cr_background1 {
+    width: 200px;
+    margin: 20px;
+    border: 3px solid white;
+}
+.cr_background2 {
+    width: 200px;
+    margin: 20px;
+    border: 3px solid white;
+}
+.cr_icon {
+    width: 200px;
+    margin: 20px;
+    border: 3px solid white;
+}
+.cr_sns {
+    width: 50px;
+    margin-top: 20px;
+    border: 3px solid white;
+}
+.html_ver {
+    text-decoration: none;
+}
+.bonus {
+    margin: 20px;
+}
+.footer_cr {
+    font-size: 75%;
+    clear:both;
+    padding-top: 25px;
+}
+.form {
+	padding-left: 42%;
+}
+.field {
+	padding-left: 45;
+}
